@@ -22,6 +22,10 @@ body {
     border-radius: 5px;
 }
 
+.placar {
+    min-width: 200px;
+}
+
 #btn-chutar-palavra, #btn-reiniciar{
     display: flex;
     align-items: center;
